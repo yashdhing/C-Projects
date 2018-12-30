@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1478795988 source:d:\programs\chegg\eric\connect 4\board.c
+	<stdio.h>
+	<stdlib.h>
+	"board.h"
+
+1478787225 d:\programs\chegg\eric\connect 4\board.h
+
+1478795907 source:d:\programs\chegg\eric\connect 4\game.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"game.h"
+	"win.h"
+	"board.h"
+
+1478794287 d:\programs\chegg\eric\connect 4\game.h
+	<stdbool.h>
+
+1478795278 d:\programs\chegg\eric\connect 4\win.h
+	<stdbool.h>
+
+1478797425 source:d:\programs\chegg\eric\connect 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"board.h"
+	"game.h"
+	"win.h"
+
+1478796076 source:d:\programs\chegg\eric\connect 4\win.c
+	"win.h"
+
